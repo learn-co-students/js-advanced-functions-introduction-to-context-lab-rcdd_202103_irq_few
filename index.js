@@ -8,7 +8,6 @@ function createEmployeeRecord(employeeArray){
     timeInEvents: [],
     timeOutEvents: [],
   }
-  
   return newEmployee;
 }
 
